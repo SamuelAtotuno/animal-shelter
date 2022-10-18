@@ -1,0 +1,121 @@
+body{
+  margin: 0;
+ }
+.tlp-logo{
+  text-align: center;
+  background-color: #fff;
+ background-size: 100%;
+ 
+}
+.tlp-logo img{
+ height: 40px;
+ width: auto;
+ justify-content: center;
+ margin-top: 50px;
+ margin-bottom: 40px;
+ 
+}
+.nav-link{
+  color: black;
+}
+.top {
+  border: solid rgb(176, 176, 176) 1px;
+}
+.dropdown:hover{
+  text-decoration: underline solid rgb(10, 10, 61) 2px;
+  text-underline-position: initial; 
+}
+.dropdown:hover .dropdown-menu {
+  display: block;
+  opacity: 0.7;
+  animation-delay: 10s;
+  margin-top: 10px;
+  border-radius: 0px;
+}
+.nav-link{
+  margin-right: 5px;
+}
+.dropdown:hover .dropdown-menu a{
+  color: black;
+  font-weight: bold;
+  margin-top: -5px;
+}
+.part1{
+  background-image: url(../images/blog_pitbull-awareness-day_102418_main.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.donate h1{
+  margin-left: 200px;
+  margin-top: 150px;
+  color: black;
+  font-size: 70px;
+}
+.donate-btn {
+  
+  margin-left: 80%;
+  margin-top: -250px;
+}
+.donate-btn button{
+  background-color: rgb(10, 10, 61); 
+  border: none;
+  padding: 10px 20px 10px 20px;
+  color: #fff;
+}
+.part1b{
+  margin-top: 350px;
+  background-color:  rgb(10, 10, 61);
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+}
+.part1b h1{
+  padding-top: 70px;
+}
+.part1b p{
+ font-size: 20px;
+ margin-top: 30px;
+}
+.part1bi {
+  text-align: center;
+  margin-top: 30px;
+}
+.part1bi img{
+  height: 300px;
+  width: 300px;
+}
+.sub{
+  display: inline-flex;
+}
+.sub1{
+  margin-right: 7px;
+}
+.sub2{
+ margin-right: 7px;
+}
+.sub button{
+  font-weight: bold;
+  color: #fff;
+  background-color: rgb(3, 3, 50);
+  margin-top: 10px;
+  text-align: center;
+  border: 0px;
+  margin-bottom: 50px;
+}
+.class
+.part2 {
+  text-align: center;
+  font-size: 20px;
+  background-color: #fff;
+}
+.part2 h1{
+  font-weight: bolder;
+}
+video{
+  height: 500px;
+  width: 1000px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
