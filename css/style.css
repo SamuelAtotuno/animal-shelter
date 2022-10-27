@@ -299,6 +299,7 @@ video {
   font-weight: bold;
   color: rgb(5, 5, 49);
   margin-bottom: 30px;
+  border-bottom: teal 0.4px solid;
 }
 .testimony{
   border: solid 1px teal;
