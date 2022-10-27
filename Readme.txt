@@ -1,20 +1,19 @@
-# Animal shelter
+# _{Application Name}_
 
-#### The love pit
+#### _{Brief description of application}_
 
-#### By Atotuno samuel
+#### By _**{List of contributors}**_
 
 ## Technologies Used
 
-* Git
-* Html
-* CSS
-* Bootstrap
-* JQuery
+* _List all_
+* _the major technologies_
+* _you used in your project_
+* _here_
 
 ## Description
 
-This website is a pitbull awareness and adoption site.
+_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
 
 ## Setup/Installation Requirements
 
@@ -28,7 +27,7 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## Known Bugs
 
-* Drop down menu can not be selected from hover
+* _Any known issues_
 * _should go here_
 
 ## License
@@ -37,5 +36,4 @@ _{Let people know what to do if they run into any issues or have questions, idea
 
 ## Contact Information
 
-samuelatotuno@gmail.com
-07084782934
+_{Add your contact information here.}_
