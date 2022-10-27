@@ -332,10 +332,12 @@ video {
 .END1{
   text-align: center;
   margin-left: 250px;
+  margin-top: 50px;
 }
 .END2{
   text-align: center;
   margin-left: 50px;
+  margin-top: 50px;
 }
 .end img{
   height: 200px;
@@ -346,4 +348,6 @@ video {
 }
 .footer{
   text-align: center;
+  margin-top: 20px;
+  font-size: x-small;
 }
